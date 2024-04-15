@@ -1,7 +1,6 @@
 # Simple Music Player
 A simple music player that can play any song in local storage
 
-Not sure why GitHub says that it's coded in Kotlin when I coded it in Java
 
 Features:
 
